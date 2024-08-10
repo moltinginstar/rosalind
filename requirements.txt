@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+biopython==1.83
+lxml==5.2.2
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.22.0
+requests==2.32.3
+scikit-learn==1.5.0
+scipy==1.13.1
+seaborn==0.13.2
+statsmodels==0.14.2
+sympy==1.12.1
+xgboost==2.0.3
